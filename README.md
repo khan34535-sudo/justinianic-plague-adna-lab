@@ -36,7 +36,7 @@ This is a **design prototype and demonstrator**. It is intended to show how arch
 - **Chronological spread** — Animated transmission corridors from Central Asian origin (c. 200 CE) through Pelusium, Constantinople, and outward to extinction (c. 750 CE)
 - **3D specimen models** — Procedural Three.js models of molar teeth, petrous bone, *Y. pestis* bacterium, flea vectors, and plague phylogeny
 - **Multi-proxy integration** — Ancient DNA, isotopes, osteology, historical texts, and material culture side-by-side
-- **Poinar lab workflow** — Six-step ancient DNA pipeline from clean-room sampling to phylogenetic sequencing
+- **Dr.Poinar lab workflow** — Six-step ancient DNA pipeline from clean-room sampling to phylogenetic sequencing
 - **Readable citations** — Every panel surfaces its own APA 7th reference
 - **Contemporary relevance** — Explorable scenarios for COVID-19 parallels and lineage extinction
 
